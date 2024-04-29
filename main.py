@@ -16,7 +16,6 @@ def add_assignment(assignments):
 def display_assignments(assignments):
     """
     Function to display the list of assignments with numbers.
-an online data stream
     - Takes the assignments list as a parameter.
     - Prints each assignment with a corresponding number.
     """
